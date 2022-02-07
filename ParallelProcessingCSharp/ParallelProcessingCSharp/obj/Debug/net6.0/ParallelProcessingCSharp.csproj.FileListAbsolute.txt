@@ -1,0 +1,15 @@
+C:\Users\atharvam\repos\ParallelProcessingCSharp\ParallelProcessingCSharp\ParallelProcessingCSharp\obj\Debug\net6.0\ParallelProcessingCSharp.csproj.AssemblyReference.cache
+C:\Users\atharvam\repos\ParallelProcessingCSharp\ParallelProcessingCSharp\ParallelProcessingCSharp\obj\Debug\net6.0\ParallelProcessingCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atharvam\repos\ParallelProcessingCSharp\ParallelProcessingCSharp\ParallelProcessingCSharp\obj\Debug\net6.0\ParallelProcessingCSharp.AssemblyInfoInputs.cache
+C:\Users\atharvam\repos\ParallelProcessingCSharp\ParallelProcessingCSharp\ParallelProcessingCSharp\obj\Debug\net6.0\ParallelProcessingCSharp.AssemblyInfo.cs
+C:\Users\atharvam\repos\ParallelProcessingCSharp\ParallelProcessingCSharp\ParallelProcessingCSharp\obj\Debug\net6.0\ParallelProcessingCSharp.csproj.CoreCompileInputs.cache
+C:\Users\atharvam\repos\ParallelProcessingCSharp\ParallelProcessingCSharp\ParallelProcessingCSharp\bin\Debug\net6.0\ParallelProcessingCSharp.exe
+C:\Users\atharvam\repos\ParallelProcessingCSharp\ParallelProcessingCSharp\ParallelProcessingCSharp\bin\Debug\net6.0\ParallelProcessingCSharp.deps.json
+C:\Users\atharvam\repos\ParallelProcessingCSharp\ParallelProcessingCSharp\ParallelProcessingCSharp\bin\Debug\net6.0\ParallelProcessingCSharp.runtimeconfig.json
+C:\Users\atharvam\repos\ParallelProcessingCSharp\ParallelProcessingCSharp\ParallelProcessingCSharp\bin\Debug\net6.0\ParallelProcessingCSharp.dll
+C:\Users\atharvam\repos\ParallelProcessingCSharp\ParallelProcessingCSharp\ParallelProcessingCSharp\bin\Debug\net6.0\ref\ParallelProcessingCSharp.dll
+C:\Users\atharvam\repos\ParallelProcessingCSharp\ParallelProcessingCSharp\ParallelProcessingCSharp\bin\Debug\net6.0\ParallelProcessingCSharp.pdb
+C:\Users\atharvam\repos\ParallelProcessingCSharp\ParallelProcessingCSharp\ParallelProcessingCSharp\obj\Debug\net6.0\ParallelProcessingCSharp.dll
+C:\Users\atharvam\repos\ParallelProcessingCSharp\ParallelProcessingCSharp\ParallelProcessingCSharp\obj\Debug\net6.0\ref\ParallelProcessingCSharp.dll
+C:\Users\atharvam\repos\ParallelProcessingCSharp\ParallelProcessingCSharp\ParallelProcessingCSharp\obj\Debug\net6.0\ParallelProcessingCSharp.pdb
+C:\Users\atharvam\repos\ParallelProcessingCSharp\ParallelProcessingCSharp\ParallelProcessingCSharp\obj\Debug\net6.0\ParallelProcessingCSharp.genruntimeconfig.cache
