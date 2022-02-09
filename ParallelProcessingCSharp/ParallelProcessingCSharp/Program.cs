@@ -12,8 +12,11 @@ namespace ParallelProcessingCSharp // Note: actual namespace depends on the proj
             //DataParallelismExampleFour.ExampleFour();
             //DataParallelismExampleFive.ExampleFive();
             //DataParallelismExampleSix.ExampleSix(new string[1]);
-            TaskExampleOne.ExampleOne().GetAwaiter().GetResult();
+            //TaskExampleOne.ExampleOne().GetAwaiter().GetResult();
             //TaskExampleTwo.ExampleTwo().GetAwaiter().GetResult();
+            //TaskExampleThree.ExampleThree().GetAwaiter().GetResult();
+            //TaskExampleFour.ExampleFour().GetAwaiter().GetResult();
+            TaskExampleFive.ExampleFive().GetAwaiter().GetResult();
         }
     }
 }
